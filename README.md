@@ -1,1 +1,4 @@
-# Wifi
+Prerequisite:-
+Python3 required
+
+ 
